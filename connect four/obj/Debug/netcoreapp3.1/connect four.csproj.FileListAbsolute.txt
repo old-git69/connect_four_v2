@@ -1,0 +1,13 @@
+D:\Uni year 3\software\Assignment 1\connect four\connect four\bin\Debug\netcoreapp3.1\connect four.exe
+D:\Uni year 3\software\Assignment 1\connect four\connect four\bin\Debug\netcoreapp3.1\connect four.deps.json
+D:\Uni year 3\software\Assignment 1\connect four\connect four\bin\Debug\netcoreapp3.1\connect four.runtimeconfig.json
+D:\Uni year 3\software\Assignment 1\connect four\connect four\bin\Debug\netcoreapp3.1\connect four.runtimeconfig.dev.json
+D:\Uni year 3\software\Assignment 1\connect four\connect four\bin\Debug\netcoreapp3.1\connect four.dll
+D:\Uni year 3\software\Assignment 1\connect four\connect four\bin\Debug\netcoreapp3.1\connect four.pdb
+D:\Uni year 3\software\Assignment 1\connect four\connect four\obj\Debug\netcoreapp3.1\connect four.csprojAssemblyReference.cache
+D:\Uni year 3\software\Assignment 1\connect four\connect four\obj\Debug\netcoreapp3.1\connect four.AssemblyInfoInputs.cache
+D:\Uni year 3\software\Assignment 1\connect four\connect four\obj\Debug\netcoreapp3.1\connect four.AssemblyInfo.cs
+D:\Uni year 3\software\Assignment 1\connect four\connect four\obj\Debug\netcoreapp3.1\connect four.csproj.CoreCompileInputs.cache
+D:\Uni year 3\software\Assignment 1\connect four\connect four\obj\Debug\netcoreapp3.1\connect four.dll
+D:\Uni year 3\software\Assignment 1\connect four\connect four\obj\Debug\netcoreapp3.1\connect four.pdb
+D:\Uni year 3\software\Assignment 1\connect four\connect four\obj\Debug\netcoreapp3.1\connect four.genruntimeconfig.cache
